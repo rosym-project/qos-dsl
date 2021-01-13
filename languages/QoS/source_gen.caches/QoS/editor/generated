@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product version="3" modelHash="-40norlpqxzw8b1idsssltlaxsn2m9au">
+  <files names="Availability_Editor.java:Availability_EditorBuilder_a.java:CapabilitiesProfile_Editor.java:CapabilitiesProfile_EditorBuilder_a.java:DataRate_Editor.java:DataRate_EditorBuilder_a.java:Deadline_Editor.java:Deadline_EditorBuilder_a.java:Delay_Editor.java:Delay_EditorBuilder_a.java:Depth_Editor.java:Depth_EditorBuilder_a.java:Durability_Editor.java:Durability_EditorBuilder_a.java:EditorAspectDescriptorImpl.java:ErrorRate_Editor.java:ErrorRate_EditorBuilder_a.java:History_Editor.java:History_EditorBuilder_a.java:Jitter_Editor.java:Jitter_EditorBuilder_a.java:LeaseDuration_Editor.java:LeaseDuration_EditorBuilder_a.java:Lifespan_Editor.java:Lifespan_EditorBuilder_a.java:Liveliness_Editor.java:Liveliness_EditorBuilder_a.java:LossRate_Editor.java:LossRate_EditorBuilder_a.java:QoSDefinition_Editor.java:QoSDefinition_EditorBuilder_a.java:Reliability_Editor.java:Reliability_EditorBuilder_a.java:RequirementsProfile_Editor.java:RequirementsProfile_EditorBuilder_a.java" />
+</product>
+
