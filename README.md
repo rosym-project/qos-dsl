@@ -21,6 +21,6 @@ __Requirements__:
 * Error rate
 
 ## Extensions
-* [DDS DSL](https://github.com/samuelpg/dds-dsl): An extension of the QoS DSL that constraints the definitons of QoS capabilities to ensure a valid profile in DDS.
+* [DDS DSL](https://github.com/rosym-project/dds-dsl): An extension of the QoS DSL that constraints the definitons of QoS capabilities to ensure a valid profile in DDS.
 
 This language was created with [JetBrains' MPS](https://www.jetbrains.com/mps/). 
